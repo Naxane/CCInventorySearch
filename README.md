@@ -6,12 +6,12 @@ Thus I present a way to search your inventory by item name!
 
 You are able to search by name and filter by item rarity.
 
-![Image showing text search](https://github.com/Naxane/CCInventorySearch/blob/main/docs/media/screenshots/search.gif)
+![Image showing text search](https://github.com/naxane/nax-inventory-search/blob/main/docs/media/screenshots/search.gif)
 
 # Dependencies
 This mod depends on the following:
  - [v1.0.0 (or newer) nax-module-cache](https://github.com/naxane/nax-module-cache/releases/)
- - [v1.1.0 (or newer) nax-ccuilib](https://github.com/naxane/CCUILib/releases)
+ - [v1.1.0 (or newer) nax-ccuilib](https://github.com/naxane/nax-ccuilib/releases)
 
 # Suggestions
 Have suggestions? Want to tell me them?
